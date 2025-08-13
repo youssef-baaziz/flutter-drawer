@@ -7,11 +7,11 @@ class ContactsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final contacts = [
-      {'name': 'Alice', 'phone': '+212 600 000 001'},
-      {'name': 'Bob',   'phone': '+212 600 000 002'},
-      {'name': 'Chloe', 'phone': '+212 600 000 003'},
-      {'name': 'David', 'phone': '+212 600 000 004'},
-      {'name': 'Emma',  'phone': '+212 600 000 005'},
+      {'name': 'Youssef', 'phone': '+212 661 234 567'},
+      {'name': 'Fatima',  'phone': '+212 662 345 678'},
+      {'name': 'Lwalid',    'phone': '+212 663 456 789'},
+      {'name': 'Mama', 'phone': '+212 664 567 890'},
+      {'name': 'My bro',  'phone': '+212 665 678 901'},
     ];
 
     return Scaffold(
